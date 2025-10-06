@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\quanlysach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7EBCB4-0FEF-4730-BD02-1FFD5692909E}|quanlysach\\quanlysach.csproj|e:\\cntt\\hoc_ki_7_2025\\phuong_phat_trien_phan_mem_huong_doi_tuong\\bttuan6\\quanlysach\\quanlysach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B7EBCB4-0FEF-4730-BD02-1FFD5692909E}|quanlysach\\quanlysach.csproj|solutionrelative:quanlysach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\quanlysach\\quanlysach\\Form1.cs",
+              "RelativeDocumentMoniker": "quanlysach\\Form1.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\quanlysach\\quanlysach\\Form1.cs [Design]",
+              "RelativeToolTip": "quanlysach\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:16:34.741Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

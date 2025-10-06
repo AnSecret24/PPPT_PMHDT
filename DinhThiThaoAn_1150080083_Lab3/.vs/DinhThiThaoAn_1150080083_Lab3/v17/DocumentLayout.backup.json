@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D552567A-C1E2-4C42-B41A-4434EC6BC188}|DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3.csproj|e:\\cntt\\hoc_ki_7_2025\\phuong_phat_trien_phan_mem_huong_doi_tuong\\bttuan6\\dinhthithaoan_1150080083_lab3\\dinhthithaoan_1150080083_lab3\\thuchanh2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552567A-C1E2-4C42-B41A-4434EC6BC188}|DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3.csproj|solutionrelative:dinhthithaoan_1150080083_lab3\\thuchanh2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552567A-C1E2-4C42-B41A-4434EC6BC188}|DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3.csproj|e:\\cntt\\hoc_ki_7_2025\\phuong_phat_trien_phan_mem_huong_doi_tuong\\bttuan6\\dinhthithaoan_1150080083_lab3\\dinhthithaoan_1150080083_lab3\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552567A-C1E2-4C42-B41A-4434EC6BC188}|DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3.csproj|solutionrelative:dinhthithaoan_1150080083_lab3\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552567A-C1E2-4C42-B41A-4434EC6BC188}|DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3.csproj|e:\\cntt\\hoc_ki_7_2025\\phuong_phat_trien_phan_mem_huong_doi_tuong\\bttuan6\\dinhthithaoan_1150080083_lab3\\dinhthithaoan_1150080083_lab3\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D552567A-C1E2-4C42-B41A-4434EC6BC188}|DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3.csproj|solutionrelative:dinhthithaoan_1150080083_lab3\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552567A-C1E2-4C42-B41A-4434EC6BC188}|DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3.csproj|e:\\cntt\\hoc_ki_7_2025\\phuong_phat_trien_phan_mem_huong_doi_tuong\\bttuan6\\dinhthithaoan_1150080083_lab3\\dinhthithaoan_1150080083_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552567A-C1E2-4C42-B41A-4434EC6BC188}|DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3.csproj|solutionrelative:dinhthithaoan_1150080083_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThucHanh2.Designer.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.Designer.cs",
+              "RelativeDocumentMoniker": "DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.Designer.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.Designer.cs",
+              "RelativeToolTip": "DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:44:54.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThucHanh2.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.cs",
+              "RelativeDocumentMoniker": "DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.cs",
+              "RelativeToolTip": "DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:44:44.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThucHanh2.cs [Design]",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.cs",
+              "RelativeDocumentMoniker": "DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.cs [Design]",
+              "RelativeToolTip": "DinhThiThaoAn_1150080083_Lab3\\ThucHanh2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:43:47.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "DinhThiThaoAn_1150080083_Lab3\\Program.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_7_2025\\Phuong_phat_trien_phan_mem_huong_doi_tuong\\BTtuan6\\DinhThiThaoAn_1150080083_Lab3\\DinhThiThaoAn_1150080083_Lab3\\Program.cs",
+              "RelativeToolTip": "DinhThiThaoAn_1150080083_Lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:00:57.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
